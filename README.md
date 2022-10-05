@@ -5,9 +5,11 @@ Project in French language.
 
 Technologies used : Flask/Python, Bootstrap, Sass, HTML & CSS
 
-To start the project :
+### To start the project :
 
+```sh
 python3 app.py
+```
 
 ------
 
@@ -15,6 +17,8 @@ Site responsive entièrement axé sur l'Accessibilité Web. Réalisé en collabo
 
 Technologies utilisées : Flask/Python, Bootstrap, Sass, HTML & CSS
 
-Pour démarrer le projet : 
+### Pour démarrer le projet : 
 
+```sh
 python3 app.py
+```
