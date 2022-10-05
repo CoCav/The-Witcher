@@ -1,5 +1,6 @@
 # The-Witcher
 Responsive project focused on Web Accessibility. It was realized in collaboration with blCav.
+
 Project in French language.
 
 Technologies used : Flask/Python, Bootstrap, Sass, HTML & CSS
